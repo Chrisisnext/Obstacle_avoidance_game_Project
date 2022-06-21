@@ -1,0 +1,25 @@
+#rock_one {
+    height: 100px;
+    width: 100px;
+    color: grey;
+    background-image: url("");
+}
+
+#rock_two {
+    height: 100px;
+    width: 100px;
+    background-image: url("images\372-3723950_unikitty-character-rock-guy-cartoon-rock-no-background.png");
+}
+
+#boat {
+    /*height: 500px;
+    width: 50px;
+    */
+    background-image: url("images\372-3723950_unikitty-character-rock-guy-cartoon-rock-no-background.png");
+}
+
+body {
+    background-color: lightseagreen;
+    height: 100%;
+    width: 100%;
+}
